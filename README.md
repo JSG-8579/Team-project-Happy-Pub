@@ -7,4 +7,8 @@
   <li>배포 URL: https://team-project-happy-pub.vercel.app/</li>
 </ul>
 <h1>SKILL</h1>
-
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+</div>
